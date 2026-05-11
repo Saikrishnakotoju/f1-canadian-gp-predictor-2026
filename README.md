@@ -1,5 +1,11 @@
 # 🏁 F1 2026 Canadian Grand Prix — ML Race Predictor
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-Classifier-green?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red?style=flat&logo=jupyter)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
+
 A machine learning project that predicts the winner of the **2026 Canadian Grand Prix** (Sprint + Main Race) using historical F1 data, feature engineering, and an ensemble of Random Forest + XGBoost classifiers.
 
 ---
